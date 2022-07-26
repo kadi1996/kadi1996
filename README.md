@@ -1,5 +1,5 @@
 ### Hey there! Kadi here :wave:
-### Glad to see you here! Check out my repository to learn more about me and my projects:nerd:
+### Glad to see you here! Check out my repository to learn more about me and my projects :nerd:
 ---
 
 I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, React.js
